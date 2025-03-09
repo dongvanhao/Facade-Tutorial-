@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\flightbookingapi\\flightbookingapi\\controllers\\flightbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|solutionrelative:flightbookingapi\\controllers\\flightbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\flightbookingapi\\flightbookingapi\\service\\flightbookingfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|solutionrelative:flightbookingapi\\service\\flightbookingfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\flightbookingapi\\flightbookingapi\\service\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|solutionrelative:flightbookingapi\\service\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\flightbookingapi\\flightbookingapi\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|solutionrelative:flightbookingapi\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\flightbookingapi\\flightbookingapi\\service\\seatbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413B5F8-E422-406E-98CC-5FE1ADF12C0C}|FlightBookingAPI\\FlightBookingAPI.csproj|solutionrelative:flightbookingapi\\service\\seatbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Controllers\\FlightBookingController.cs",
+              "RelativeDocumentMoniker": "FlightBookingAPI\\Controllers\\FlightBookingController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Controllers\\FlightBookingController.cs*",
+              "RelativeToolTip": "FlightBookingAPI\\Controllers\\FlightBookingController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:38:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightBookingFacade.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\FlightBookingFacade.cs",
+              "RelativeDocumentMoniker": "FlightBookingAPI\\Service\\FlightBookingFacade.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\FlightBookingFacade.cs*",
+              "RelativeToolTip": "FlightBookingAPI\\Service\\FlightBookingFacade.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:37:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "FlightBookingAPI\\Service\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\PaymentService.cs*",
+              "RelativeToolTip": "FlightBookingAPI\\Service\\PaymentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:36:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeatBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\SeatBookingService.cs",
+              "RelativeDocumentMoniker": "FlightBookingAPI\\Service\\SeatBookingService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\SeatBookingService.cs*",
+              "RelativeToolTip": "FlightBookingAPI\\Service\\SeatBookingService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:35:44.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\FlightSearchService.cs",
+              "RelativeDocumentMoniker": "FlightBookingAPI\\Service\\FlightSearchService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\FlightBookingAPI\\FlightBookingAPI\\Service\\FlightSearchService.cs*",
+              "RelativeToolTip": "FlightBookingAPI\\Service\\FlightSearchService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:34:38.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
